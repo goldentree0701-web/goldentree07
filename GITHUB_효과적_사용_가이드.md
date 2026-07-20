@@ -1,4 +1,4 @@
-# GitHub 효과적 사용 가이드
+# GitHub 효과적 사용 가이드 작성하기 학습
 
 ## 1. 저장소(Repository) 설정
 
